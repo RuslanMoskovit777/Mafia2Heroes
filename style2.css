@@ -1,0 +1,28 @@
+body{background-color:#706e6e}
+.golos {
+  background: #b6b8b7;
+  padding: 5px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  display: flex;
+}
+.golos img{
+  margin: 13px;
+  border-radius: 10px;
+}
+p{font-size: 22px;}
+img{border-radius: 25px;}
+a {
+  color: #3a0ed8; 
+  text-decoration: none; 
+ }
+ a:visited {
+  color: #800080; 
+ } 
+ a:hover {
+  color: #800080; 
+  text-decoration: underline; 
+ }
+ a:visited {
+  color: #3a0ed8;
+}
